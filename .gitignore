@@ -21,15 +21,11 @@ ipython_config.py
 
 
 # Portable Network Graphics
-*.png
+#*.png
 
 # JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
+#*.jpg
+#*.jpeg
 
 # JPEG 2000
 *.jp2
